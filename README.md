@@ -1,4 +1,4 @@
-# hello-world
+# Vue Js Calculator
 
 ## Project setup
 ```
@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Inspiration
+
+https://www.youtube.com/watch?v=m1_ih43p24s&feature=youtu.be&t=1101
