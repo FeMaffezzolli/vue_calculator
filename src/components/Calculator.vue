@@ -59,7 +59,7 @@ export default {
       this.current.indexOf(".") === -1 ? this.append(".") : null;
     },
     divide() {
-      this.operator = (a, b) => a / b;
+      this.operator = (a, b) => b / a;
       this.setPrevious();
     },
     times() {
@@ -67,7 +67,7 @@ export default {
       this.setPrevious();
     },
     minus() {
-      this.operator = (a, b) => a - b;
+      this.operator = (a, b) => b - a;
       this.setPrevious();
     },
     add() {
